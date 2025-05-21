@@ -8,8 +8,9 @@ I'm currently focused on strengthening my skills in IT support while building a 
 - 🛠️ [Password Reset Ticket Within osTicket](https://github.com/KevinDBrown/osticketpasswordreset/)
 
 ## 🧰 Skills
-- Windows Server & AD
-- Basic PowerShell Scripting
+- Active Directory
+- Virtual Machines
+- PowerShell Scripting
 - VPN Configuration
 - IT Support Workflows & Ticketing System (osTicket)
 
