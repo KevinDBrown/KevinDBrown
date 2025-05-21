@@ -8,10 +8,12 @@ I'm currently focused on strengthening my skills in IT support while building a 
 - 🛠️ [Password Reset Ticket Within osTicket](https://github.com/KevinDBrown/osticketpasswordreset/)
 
 ## 🧰 Skills
-- Active Directory
-- Virtual Machines
+- Active Directory User & Group Management
+- Virtual Machine Deployment & Management
 - PowerShell Scripting
-- VPN Configuration
-- IT Support Workflows & Ticketing System (osTicket)
+- DNS & IP Address Configuration Basics
+- VPN Configuration & Traffic Verification
+- Ticket Triage & Response
+- Aduit Policy Implementation
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yourname) or check out my ongoing labs here!
