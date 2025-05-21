@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kevin Brown
 
-Welcome to my GitHub! I'm an aspiring IT specialist with a growing skill set in Active Directory, networking, cybersecurity, and IT support.
+I'm an aspiring IT professional building a strong foundation in technical support with a clear path toward a future in cybersecurity.
 
 ## 🚧 Current Projects:
 - 🖥️ [Active Directory Audit Logging](https://github.com/yourusername/active-directory-auditing)
@@ -9,8 +9,8 @@ Welcome to my GitHub! I'm an aspiring IT specialist with a growing skill set in 
 
 ## 🧰 Skills
 - Windows Server & AD
-- Basic PowerShell scripting
-- VPN configuration
-- IT support workflows
+- Basic PowerShell Scripting
+- VPN Configuration
+- IT Support Workflows
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yourname) or check out my ongoing labs here!
