@@ -1,17 +1,16 @@
-<h1>Hi, I'm Kevin, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+# 👋 Hi, I'm Kevin Brown
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+Welcome to my GitHub! I'm an aspiring IT specialist with a growing skill set in Active Directory, networking, cybersecurity, and IT support.
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+## 🚧 Current Projects:
+- 🖥️ [Active Directory Audit Logging](https://github.com/yourusername/active-directory-auditing)
+- 🌐 [VPN Setup & Usage](https://github.com/yourusername/vpn-setup-and-usage)
+- 🛠️ [Password Reset Ticket in osTicket](https://github.com/yourusername/osticket-password-reset)
 
-<h2>🤳Connect with me:</h2>
+## 🧰 Skills
+- Windows Server & AD
+- Basic PowerShell scripting
+- VPN configuration
+- IT support workflows
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/Josh
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yourname) or check out my ongoing labs here!
