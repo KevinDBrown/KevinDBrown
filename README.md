@@ -14,6 +14,6 @@ I'm currently focused on strengthening my skills in IT support while building a 
 - DNS & IP Address Configuration
 - VPN Configuration & Traffic Verification
 - Ticket Triage & Response
-- Aduit Policy Implementation
+- Audit Policy Implementation
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kevindeonbrown/) or check out my ongoing labs here!
