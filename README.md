@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kevin Brown
 
-I'm an aspiring IT professional building a strong foundation in technical support with a clear path toward a future in cybersecurity.
+I'm currently focused on strengthening my skills in IT support while building a strong foundation for future growth in cybersecurity.
 
 ## 🚧 Current Projects:
 - 🖥️ [Active Directory Audit Logging](https://github.com/yourusername/active-directory-auditing)
