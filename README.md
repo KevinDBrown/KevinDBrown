@@ -11,7 +11,7 @@ I'm currently focused on strengthening my skills in IT support while building a 
 - Active Directory User & Group Management
 - Virtual Machine Deployment & Management
 - PowerShell Scripting
-- DNS & IP Address Configuration Basics
+- DNS & IP Address Configuration
 - VPN Configuration & Traffic Verification
 - Ticket Triage & Response
 - Aduit Policy Implementation
