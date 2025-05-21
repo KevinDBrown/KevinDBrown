@@ -3,7 +3,7 @@
 I'm currently focused on strengthening my skills in IT support while building a strong foundation for future growth in cybersecurity.
 
 ## 🚧 Current Projects:
-- 🖥️ [Active Directory Audit Logging](https://github.com/KevinDBrown/adauditlogging)
+- 🖥️ [Active Directory Logging & Audting](https://github.com/KevinDBrown/adauditlogging)
 - 🌐 [VPN Setup & Usage](https://github.com/KevinDBrown/vpnsetupandusage/)
 - 🛠️ [Password Reset Ticket Within osTicket](https://github.com/KevinDBrown/osticketpasswordreset/)
 
