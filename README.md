@@ -11,6 +11,6 @@ I'm currently focused on strengthening my skills in IT support while building a 
 - Windows Server & AD
 - Basic PowerShell Scripting
 - VPN Configuration
-- IT Support Workflows
+- IT Support Workflows & Ticketing System (osTicket)
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yourname) or check out my ongoing labs here!
