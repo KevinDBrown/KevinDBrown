@@ -16,4 +16,4 @@ I'm currently focused on strengthening my skills in IT support while building a 
 - Ticket Triage & Response
 - Aduit Policy Implementation
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yourname) or check out my ongoing labs here!
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kevindeonbrown/) or check out my ongoing labs here!
