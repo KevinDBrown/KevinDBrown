@@ -5,7 +5,7 @@ I'm currently focused on strengthening my skills in IT support while building a 
 ## 🚧 Current Projects:
 - 🖥️ [Active Directory Logging & Audting](https://github.com/KevinDBrown/adauditlogging)
 - 🌐 [VPN Setup & Usage](https://github.com/KevinDBrown/vpnsetupandusage/)
-- 🛠️ [Password Reset Ticket Within osTicket](https://github.com/KevinDBrown/osticketpasswordreset/)
+- 🛠️ [Password Reset Ticket Using osTicket](https://github.com/KevinDBrown/osticketpasswordreset/)
 
 ## 🧰 Skills
 - Active Directory User & Group Management
