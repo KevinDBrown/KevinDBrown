@@ -5,7 +5,7 @@ I'm currently focused on strengthening my skills in IT support while building a 
 ## 🚧 Current Projects:
 - 🖥️ [Active Directory Logging & Auditing](https://github.com/KevinDBrown/adauditlogging)
 - 🌐 [VPN Setup & Usage](https://github.com/KevinDBrown/vpnsetupandusage/)
-- 🛠️ [Password Reset Using Active Directory](https://github.com/KevinDBrown/adpasswordreset)
+- 🛠️ [Active Directory Password Reset & Account Unlock](https://github.com/KevinDBrown/adpasswordreset)
 
 ## 🧰 Skills
 - Active Directory User & Group Management
